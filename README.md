@@ -7,6 +7,7 @@
 - [Prerequisites](#prerequisites)
 - [Wireframe](#wireframe)
 - [Screenshots](#screenshots)
+- [Dataset](#dataset)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
@@ -50,24 +51,8 @@ Include some screenshots or GIFs demonstrating the different features and visual
 ## Dataset
 The Dataset used contained employee data
 
-Limitations
-Describe any limitations or constraints of the dashboard, if applicable.
-
-Future Enhancements
+## Future Enhancements
 Outline any potential improvements or additional features that you plan to implement in the future.
-
-Credits
-Acknowledge any external resources, libraries, or inspiration that contributed to your project.
-
-License
-Specify the license under which you are releasing this project
-## Usage
-Once you have opened the Bike Dashboard Excel file, you can explore the various features and functionalities:
-- Navigate through different sheets or tabs to access different sections of the dashboard.
-- Take note of the explanations provided for each column to understand the data representation.
-- Interact with the provided filters and dropdown menus to customize the data displayed.
-- Observe the dynamically updated charts and graphs as you make changes to the filters and dropdown menus.
-- Analyze the presented metrics and visualizations to gain insights into bike-related data.
 
 ## Contributing
 Contributions to the Bike Dashboard project are welcome! If you'd like to contribute, please follow these steps:
