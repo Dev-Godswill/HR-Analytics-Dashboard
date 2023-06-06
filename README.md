@@ -1,5 +1,3 @@
-# HR-Analytics-Dashboard
-
 # <a name="hr-dashboard"></a> HR-Analytics-Dashboard
 
 ## Table of Contents
