@@ -51,9 +51,6 @@ Include some screenshots or GIFs demonstrating the different features and visual
 ## Dataset
 The Dataset used contained employee data
 
-## Future Enhancements
-Outline any potential improvements or additional features that you plan to implement in the future.
-
 ## Contributing
 Contributions to the Bike Dashboard project are welcome! If you'd like to contribute, please follow these steps:
 - Fork the project repository. 
