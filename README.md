@@ -52,7 +52,7 @@ Include some screenshots or GIFs demonstrating the different features and visual
 The Dataset used contained employee data
 
 ## Contributing
-Contributions to the Bike Dashboard project are welcome! If you'd like to contribute, please follow these steps:
+Contributions to the HR Analytics Dashboard project are welcome! If you'd like to contribute, please follow these steps:
 - Fork the project repository. 
 - Create a new branch: git checkout -b feature/your-feature-name. 
 - Make your changes and commit them: git commit -am 'Add your commit message'. 
