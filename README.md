@@ -14,7 +14,7 @@
 ## <a name="project-description"></a> Project Description
 This project is an HR Analytics Dashboard built using Excel. It provides insights and visualizations based on a dataset using various Excel features and functions such as Power Query, DAX, VLookup, Macro, VBA, IF, IFERROR, and Pivot Tables.
 
-![Excel Project Dataset](https://github.com/Dev-Godswill/Bike-Dashboard/assets/99620725/7171d980-929e-47aa-af9b-38d9c41aa12c)
+![ezgif com-video-to-gif](https://github.com/Dev-Godswill/HR-Analytics-Dashboard/assets/99620725/203fb66f-2322-4af1-99df-e3e54b6d3f10)
 
 **Functions Used:**
 1. **Merged Dataset:** The dataset provided was merged into a single file using Power Query. This consolidation simplifies data management and enhances the performance of the dashboard.
