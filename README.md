@@ -49,7 +49,7 @@ To successfully run the HR Analytics Dashboard, you need:
 ![ezgif com-video-to-gif](https://github.com/Dev-Godswill/HR-Analytics-Dashboard/assets/99620725/203fb66f-2322-4af1-99df-e3e54b6d3f10)
 
 ## Dataset
-The Dataset used contained employee data
+The Dataset used contained employee data from 2015-2018.
 
 ## Contributing
 Contributions to the HR Analytics Dashboard project are welcome! If you'd like to contribute, please follow these steps:
