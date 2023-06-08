@@ -43,7 +43,7 @@ To successfully run the HR Analytics Dashboard, you need:
 2. Macros enabled in Excel
 
 ## Wireframe
-
+Wireframe Link(https://excalidraw.com/#json=B8vH0U3qIr6CYTxXPqFYs,U77Qt4PPl_tKWaaEavTayg)
 
 ## Screenshots
 ![ezgif com-video-to-gif](https://github.com/Dev-Godswill/HR-Analytics-Dashboard/assets/99620725/203fb66f-2322-4af1-99df-e3e54b6d3f10)
